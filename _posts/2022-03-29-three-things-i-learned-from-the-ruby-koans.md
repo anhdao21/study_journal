@@ -19,13 +19,13 @@ class Person
 end
 ```
 
-If the action name in route matches the view template name, then we dont need to specify the render path
+- If the action name in route matches the view template name, then we dont need to specify the render path
 
-RESTFUL API creates a uniform way to name paths in your application
+- RESTFUL API creates a uniform way to name paths in your application
 
 Based on RESTUL API, we can automatically create all golden 7 routes (create, read, update and delete) using the following syntax:
 ```ruby
 resources(:directors)
 ```
 
-For asserts, any non-False and non-nil objects in Ruby count as TRUE 
+- For asserts, any non-False and non-nil objects in Ruby count as TRUE 
