@@ -2,16 +2,16 @@
 title:               'Today I Learned'
 tagline:             'Notes to self about software development'
 description:         ''
-url:                 'https://appdev-projects.github.io/'
-baseurl:             'til/'
+url:                 'https://anhdao21.github.io/'
+baseurl:             'study_journal/'
 paginate:            5
 permalink:           pretty
 
 # About/contact
 author:
-  name:              Raghu Betina
-  url:               https://twitter.com/raghubetina
-  email:             raghu@firstdraft.com
+  name:              Anh Dao
+  url:               [Twitter TBD]
+  email:             adao0@chicagobooth.edu
 
 # Gems
 plugins:
