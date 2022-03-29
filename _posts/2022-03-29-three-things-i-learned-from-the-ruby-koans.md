@@ -8,7 +8,7 @@ Here are (at least) three things I learned from [The Ruby Koans](http://rubykoan
 #### Some Random Stuff
 - I learn to include code blocks today:
 
-```ruby
+```python
 class Person
   attr_accessor :first_name
   attr_accessor :last_name
