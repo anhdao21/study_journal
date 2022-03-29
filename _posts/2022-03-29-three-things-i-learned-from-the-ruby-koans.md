@@ -23,7 +23,7 @@ end
 
 - RESTFUL API creates a uniform way to name paths in your application
 
-Based on RESTUL API, we can automatically create all golden 7 routes (create, read, update and delete) using the following syntax:
+- Based on RESTUL API, we can automatically create all golden 7 routes (create, read, update and delete) using the following syntax:
 ```ruby
 resources(:directors)
 ```
