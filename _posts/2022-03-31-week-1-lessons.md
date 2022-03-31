@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Week 1 - Reacquaintance with Ruby
 ---
 
