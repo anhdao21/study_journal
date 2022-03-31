@@ -4,7 +4,7 @@ tagline:             'Notes to self about software development'
 description:         ''
 url:                 'https://anhdao21.github.io/'
 baseurl:             'study_journal/'
-paginate:            5
+paginate:            20
 permalink:           pretty
 
 # About/contact
