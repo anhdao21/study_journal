@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Reacquaintance with Ruby
+title: Week 1 - Reacquaintance with Ruby
 ---
 
 ## Rails Base Template
