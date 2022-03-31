@@ -3,7 +3,10 @@ layout: post
 title: Week 1 - Reacquaintance with Ruby
 ---
 
-## Rails Base Template
+### Jekyll Blog Posts
+- Post names must be dated and have no spaces. It will form the path to your posts!
+
+### Rails Base Template
 1. If the action name in route matches the view template name, then we dont need to specify the render path
 2. RESTFUL API creates a uniform way to name paths in your application
 3. Based on RESTUL API, we can automatically create all golden 7 routes (create, read, update and delete) using the following syntax:
@@ -11,7 +14,7 @@ title: Week 1 - Reacquaintance with Ruby
 resources(:directors)
 ```
 
-## Ruby Koans
+### Ruby Koans
 1. For asserts, any non-False and non-nil objects in Ruby count as TRUE
 2. Shovel operator `<<` is a shorthand for `concat()` and also changes the values stored in the original object.
 3. Double colon operator `::` lets you access a constant, module, or class defined inside another class or module.
