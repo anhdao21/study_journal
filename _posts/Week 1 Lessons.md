@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A thousand things I learned from The Ruby Koans
+title: Reacquaintance with Ruby
 ---
 
 ## Rails Base Template
