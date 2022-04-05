@@ -33,7 +33,7 @@ The best solution is using `find` (only looks in ID column, and ID is unique so 
 @the_movie = Movie.find(params.fetch(:id))
 ```
 
-Note: instead of using [0]
+Note: instead of using [0] the params will throw an exception right away so you don't have to deal with `nil` later
 
 3. To adhere to RESTFUL naming convention, then we need to use verbs that match CRUD that HTML doesn't support. Here instead of using GET, Ruby creates fake methods PATCH and DELETE (from HTTP guideline) to direct HTML to update and delete records.
 
